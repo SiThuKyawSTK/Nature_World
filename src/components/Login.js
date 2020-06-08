@@ -27,7 +27,7 @@ const Login = () => {
     <>
       <Box className={classes.Container}>
         <Grid container justify="center">
-          <Typography variant="h5">Login</Typography>
+          <Typography variant="h5">Sign In</Typography>
             <br />
           <form className={classes.root}>
             <TextField label="User Name"/>
